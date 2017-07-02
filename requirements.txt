@@ -1,0 +1,6 @@
+ipython==5.4.1
+jupyter
+keras
+tensorflow
+matplotlib
+awscli
