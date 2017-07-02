@@ -1,0 +1,11 @@
+*.pyc
+/data
+*.DS_Store
+/lstm_based_predictor.egg-info
+/build
+/dist
+*.pkl
+/.idea
+
+# Jupyter Notebook
+.ipynb_checkpoints
